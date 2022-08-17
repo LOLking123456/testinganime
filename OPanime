@@ -1,7 +1,7 @@
 
         local Library =
             loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-        local Window = Library.CreateLib("NEW VIDEO OUT FOR UPDATED ANIME SQUAD SIMULATOR GUI", "Serpent")
+        local Window = Library.CreateLib("NEW VIDEO OUT FOR UPDATED ANIME SQUAD SIM GUI", "Synapse")
 
         -- MAIN
         local Main = Window:NewTab("Main")
@@ -16,7 +16,7 @@ local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
 		Duration = 7, -- Set the duration to how much you want this to stay
 		-- More code in part 2
 	})
-    setclipboard("https://www.youtube.com/watch?v=cPKairjnN4E&t=6s")
-	toclipboard("https://www.youtube.com/watch?v=cPKairjnN4E&t=6s")
+    setclipboard("https://www.youtube.com/watch?v=JEQu_1ZLhZU&t=3s")
+	toclipboard("https://www.youtube.com/watch?v=JEQu_1ZLhZU&t=3s")
             end)
         
